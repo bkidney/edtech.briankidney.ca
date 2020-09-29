@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>EdTech Reviews </title>
+		<link>https://edtech.briankidney.ca/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Brian Kidney</author>
+		<rights>Copyright (c) 2020</rights>
+		<updated>2020-09-28 18:56:14 -0230 NDT</updated>
+		
+		<item>
+			<title>Posts</title>
+			<link>https://edtech.briankidney.ca/post/</link>
+			<pubDate>Mon, 28 Sep 2020 18:56:14 NDT</pubDate>
+			<author>Brian Kidney</author>
+			<guid>https://edtech.briankidney.ca/post/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://edtech.briankidney.ca/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EdTech Reviews</title>
+    <link>https://edtech.briankidney.ca/post/</link>
+    <description>Recent content in Posts on EdTech Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 18:56:14 -0230</lastBuildDate><atom:link href="https://edtech.briankidney.ca/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://edtech.briankidney.ca/post/intro/</link>
+      <pubDate>Mon, 28 Sep 2020 18:56:14 -0230</pubDate>
+      
+      <guid>https://edtech.briankidney.ca/post/intro/</guid>
+      <description>This is the introduction.</description>
+    </item>
+    
+    <item>
+      <title>Padlet</title>
+      <link>https://edtech.briankidney.ca/post/padlet/</link>
+      <pubDate>Mon, 28 Sep 2020 18:55:25 -0230</pubDate>
+      
+      <guid>https://edtech.briankidney.ca/post/padlet/</guid>
+      <description>Padlet Overview Padlet is collaboration tool for collecting articles, videos, music, text and photos. It is like an online bulletin board and can be used for gathering related material for an idea or theme. The materials are organized in column that can be used to further break down the topic. User can add, view and modify the padlet in real time.
+Homepage: padlet.com Platform: MacOS or Online (accessed via browser)</description>
+    </item>
+    
+    <item>
+      <title>Hackmd.io</title>
+      <link>https://edtech.briankidney.ca/post/hackmd/</link>
+      <pubDate>Mon, 28 Sep 2020 18:54:31 -0230</pubDate>
+      
+      <guid>https://edtech.briankidney.ca/post/hackmd/</guid>
+      <description>Hackmd.io Overview Name URL of technology tool site (if applicable) Platform (Windows and/or Mac based; not applicable) Description
+Cost Copyright use, licensing, intellectual property Advantages and Challenges Level of Expertise Required (Instructor and students) Ease of Use
+Learning Strategy Refer back to the third reading in Week 2
+Pedagogical function Refer back to the course notes for Week 2, which includes ideas of how to sort technology tools. What Situation(s) is it Best Used For?</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebooks</title>
+      <link>https://edtech.briankidney.ca/post/jupyter/</link>
+      <pubDate>Mon, 28 Sep 2020 18:53:05 -0230</pubDate>
+      
+      <guid>https://edtech.briankidney.ca/post/jupyter/</guid>
+      <description>Jupyter Notebooks Overview Jupyter Notebook is an open-source web application that can be used to produce and share documents that include a mixture of text, live code examples, equations, and visualization. These can be used in many fields as live teaching documents that embed examples the students can run themselves or modify and run to expand their understanding of the topic. They are commonly used in courses to illustrate data science, scientific simulation or to teach software development itself.</description>
+    </item>
+    
+  </channel>
+</rss>

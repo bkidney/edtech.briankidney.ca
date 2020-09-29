@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/</loc>
+    <lastmod>2020-09-28T18:56:14-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/post/intro/</loc>
+    <lastmod>2020-09-28T18:56:14-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/post/</loc>
+    <lastmod>2020-09-28T18:56:14-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/post/padlet/</loc>
+    <lastmod>2020-09-28T18:55:25-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/post/hackmd/</loc>
+    <lastmod>2020-09-28T18:54:31-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/post/jupyter/</loc>
+    <lastmod>2020-09-28T18:53:05-02:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://edtech.briankidney.ca/tags/</loc>
+  </url>
+  
+</urlset>
