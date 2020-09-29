@@ -1,0 +1,8 @@
+baseURL = "https://edtech.briankidney.ca/"
+languageCode = "en-us"
+title = "EdTech Reviews"
+
+theme = "story"
+
+[params]
+  author = "Brian Kidney"
