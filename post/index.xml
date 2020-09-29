@@ -13,8 +13,8 @@
       <pubDate>Mon, 28 Sep 2020 18:56:14 -0230</pubDate>
       
       <guid>https://edtech.briankidney.ca/post/intro/</guid>
-      <description>Introduction Technology in the classroom can help to enhance the learner make deeper connections with the material being thaught. However, when we choose technologies that enhance the educational experience and do not hinder it. They tools should also fit our pedagogy and allow us to apply proven learning techniques. This site looks at three technologies and assesses then potential use in the classroom.
-Thenologies chosen were Jupyter Notebooks, Padlet and HackMD.</description>
+      <description>Introduction Technology in the classroom can help the learner make deeper connections with the material being taught. However, we need to ensure that we choose technologies that enhance the educational experience and do not hinder it. These tools should also fit our pedagogy and allow us to apply proven learning techniques. This site looks at three technologies and assesses then potential use in the classroom.
+The technologies chosen were Jupyter Notebooks, Padlet and HackMD.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ Thenologies chosen were Jupyter Notebooks, Padlet and HackMD.</description>
       <pubDate>Mon, 28 Sep 2020 18:55:25 -0230</pubDate>
       
       <guid>https://edtech.briankidney.ca/post/padlet/</guid>
-      <description>Padlet Overview Padlet is collaboration tool for collecting articles, videos, music, text and photos. It is like an online bulletin board and can be used for gathering related material for an idea or theme. The materials are organized in column that can be used to further break down the topic. User can add, view and modify the padlet in real time.
+      <description>Padlet Overview Padlet is collaboration tool for collecting articles, videos, music, text and photos on a online virtual bulletin board. Padlets allow for multiple users to simultaneously add, read and organize matters usually based on a central theme or idea. The materials can be organized in different formats though the most common seems to use columns to further break down the overall idea into subtopics.
 Homepage: padlet.com Platform: MacOS or Online (accessed via browser)</description>
     </item>
     
@@ -33,7 +33,7 @@ Homepage: padlet.com Platform: MacOS or Online (accessed via browser)</descripti
       <pubDate>Mon, 28 Sep 2020 18:54:31 -0230</pubDate>
       
       <guid>https://edtech.briankidney.ca/post/hackmd/</guid>
-      <description>HackMD Overview HackMD is a collaborative online editor for Markdown files. Markdown is a simplified markup language that allow you to quickly format your documents while you write. HackMD provides an editor tailored for Markdown that provides a live rendering of the formatting as you type. The site also allows for multiple users to work on the document simultaneously.
+      <description>HackMD Overview HackMD is a collaborative online editor for Markdown files. Markdown is a simplified markup language that allow you to quickly format your documents while you write. HackMD provides an editor tailored for Markdown that provides live rendering of the formatting as you type. The site also allows for multiple users to work on the document simultaneously.
 Website Link: hackmd.io Platform: Online (There is also a standalone application supported on Windows, MacOS and Linux)</description>
     </item>
     
@@ -43,7 +43,7 @@ Website Link: hackmd.io Platform: Online (There is also a standalone application
       <pubDate>Mon, 28 Sep 2020 18:53:05 -0230</pubDate>
       
       <guid>https://edtech.briankidney.ca/post/jupyter/</guid>
-      <description>Jupyter Notebooks Overview Jupyter Notebook is an open-source web application that can be used to produce and share documents that include a mixture of text, live code examples, equations, and visualization. These can be used in many fields as live teaching documents that embed examples the students can run themselves or modify and run to expand their understanding of the topic. They are commonly used in courses to illustrate data science, scientific simulation or to teach software development itself.</description>
+      <description>Jupyter Notebooks Overview Jupyter Notebooks is an open-source web application that can be used to produce and share documents that include a mixture of text, live code examples, equations, and visualization. These can be used in many fields as live teaching documents that embed examples the students can run themselves or modify and run to expand their understanding of the topic. They are commonly used in courses to illustrate data science, scientific simulation or to teach software development itself.</description>
     </item>
     
   </channel>
